@@ -1,0 +1,21 @@
+/*css file*/
+
+fancy-background{
+    background-color: 'lightpink';
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+fancy-blue{
+    color: blue;
+    font-size: 36px;
+
+}
+
+fancy-font{
+    font-size: 24px;
+}
+
+fancygreenbg{
+    background-color: lightgreen;
+    font-size: 24px;
+}
