@@ -2,7 +2,7 @@
 
 .fancy-background{
     background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
 }
 
 #fancy-blue{
@@ -18,4 +18,5 @@
 #fancygreenbg{
     background-color: lightgreen;
     font-size: 24px;
+    font-weight: bold;
 }
